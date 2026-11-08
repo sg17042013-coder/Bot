@@ -1,0 +1,17 @@
+{
+  "name": "oviedo-rp-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bot de Discord para Oviedo RP",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
